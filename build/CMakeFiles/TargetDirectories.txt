@@ -1,0 +1,4 @@
+/home/ivan/Рабочий стол/Учёба/FrameConverter/build/CMakeFiles/sofa.dir
+/home/ivan/Рабочий стол/Учёба/FrameConverter/build/CMakeFiles/frame_converter.dir
+/home/ivan/Рабочий стол/Учёба/FrameConverter/build/CMakeFiles/edit_cache.dir
+/home/ivan/Рабочий стол/Учёба/FrameConverter/build/CMakeFiles/rebuild_cache.dir
